@@ -1,9 +1,10 @@
 #include <stdio.h>
-/*
- * main - entry point
- * @void: no arguments
- * Description: the program starts and ends here.
- * Return: value 0 to exit
+
+/**
+ *  * main - Prints the size of various types based on
+ *   *        the computer it is compiled and run on..
+ *    *
+ *     * Return: Always 0.
  */
 int main(void)
 {
